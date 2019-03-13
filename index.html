@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Catálogo de Peliculas</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/mdb.min.css" rel="stylesheet">
+	<link href="css/theme.css" rel="stylesheet">
+	<link href="css/grid.css" rel="stylesheet">
+
+</head>
+<body>
+	<div  class="col-6"><table id="demo" class="table table-striped"></table></div>
+	<div class="col-6">	<p>Mostrar info. de la pelicula.</p>
+	<p id="showPelicula"></p><div>
+
+	<script>
+		var x, xmlhttp, xmlDoc,
+		xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", "catalogo_peliculas.xml", false);
+		xmlhttp.send();
+		xmlDoc = xmlhttp.responseXML;
+		x = xmlDoc.getElementsByTagName("PELICULA");
+
+		table="<tr><th>N°</th><th>Título</th><th>Genero</th><th>Año</th></tr>";
+		for (i = 0; i < x.length; i++){
+			table+="<tr onclick='displayPelicula("+ i + ")'><td>";
+			table+=(i+1)+"</td><th>";
+			table+=x[i].getElementsByTagName("TITULO")[0].childNodes[0].nodeValue;
+			table+="</td><td>";
+			table+=x[i].getElementsByTagName("GENERO")[0].childNodes[0].nodeValue;
+			table+="</td><td>";
+			table+=x[i].getElementsByTagName("AÑO")[0].childNodes[0].nodeValue;
+			table+="</td></tr>";
+		}
+
+		document.getElementById("demo").innerHTML = table;
+
+		function displayPelicula(i){
+			document.getElementById("showPelicula").innerHTML = 
+			"<img src="+ x[i].getElementsByTagName("CARTEL")[0].childNodes[0].nodeValue +" height='300' width='230'>"+
+			"<br><strong>Título: </strong>" +
+			x[i].getElementsByTagName("TITULO")[0].childNodes[0].nodeValue +
+			"<br><strong>Actores: </strong>" +
+			x[i].getElementsByTagName("ACTORES")[0].childNodes[0].nodeValue +
+			"<br><strong>Directores: </strong>" +
+			x[i].getElementsByTagName("DIRECTORES")[0].childNodes[0].nodeValue +
+			"<br><strong>Clasificación: </strong>" +
+			x[i].getElementsByTagName("CLASIFICACION")[0].childNodes[0].nodeValue +
+			"<br><strong>Genero: </strong>" +
+			x[i].getElementsByTagName("GENERO")[0].childNodes[0].nodeValue +
+			"<br><strong>Nacionalidad: </strong>" +
+			x[i].getElementsByTagName("NACIONALIDAD")[0].childNodes[0].nodeValue +
+			"<br><strong>Año: </strong>" +
+			x[i].getElementsByTagName("AÑO")[0].childNodes[0].nodeValue;
+
+		}
+	</script>
+</body>
+</html>

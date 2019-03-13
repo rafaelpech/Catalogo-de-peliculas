@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <PELICULA>
+        <TITULO>La Monja</TITULO>
+        <ACTORES>Taissa Farmiga, Demian Bichir, Jonas Bloquet, Bonnie Aarons, Charlotte Hope, Ingrid Bisu, Jonny Coyne, Manuela Ciucur, Jared Morgan, Sandra Teles, Boiangiu Alma, Laur Dragan</ACTORES>
+        <DIRECTORES>Corin Hardy</DIRECTORES>
+        <CLASIFICACION>R</CLASIFICACION>
+        <GENERO>Misterio/Thriller/Horror</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/1.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Amor de vinilo</TITULO>
+        <ACTORES>Chris O'Dowd, Rose Byrne, Kitty O'Beirne, Alex Clatworthy, Lily Brazier, Ko Iwagami, Lily Newmark, Denise Gough, Phil Davis, Ethan Hawke, Azhy Robertson</ACTORES>
+        <DIRECTORES>Jesse Peretz</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Comedia/Drama/Musica</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/2.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>La balada de Buster Scruggs </TITULO>
+        <ACTORES>Liam Neeson, James Franco, Zoe Kazan, David Krumholtz, Clancy Brown, Brendan Gleeson, Stephen Root, Harry Melling, Tom Waits, Ralph Ineson, Tim Blake Nelson</ACTORES>
+        <DIRECTORES>Ethan Coen, Joel Coen</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia/Drama/Musica</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/3.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>El justiciero 2</TITULO>
+        <ACTORES>	
+Denzel Washington, Pedro Pascal, Bill Pullman, Melissa Leo, Ashton Sanders, Jonathan Scarfe, Sakina Jaffrey, Lexie Roth, Caroline Day, Donald Cerrone, Abigail Marlowe, Alin Halajian, Annie Pisapia, Joseph Oliveira</ACTORES>
+        <DIRECTORES>Antoine Fuqua</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Thriller</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/4.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Locamente millonarios</TITULO>
+        <ACTORES>Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan, Lisa Lu, Awkwafina, Harry Shum Jr., Ken Jeong, Sonoya Mizuno, Chris Pang, Jimmy O. Yang, Ronny Chieng</ACTORES>
+        <DIRECTORES>Jon M. Chu</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia/romance</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/5.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Punto Ciego</TITULO>
+        <ACTORES>Daveed Diggs, Rafael Casal, Janina Gavankar, Jasmine Cephas-Jones, Ethan Embry, Wayne Knight, Utkarsh Ambudkar, Tisha Campbell, Kevin Carroll, Nyambi Nyambi, Kendra Andrews, Zack Duhame, Jon Chaffin, Dawayne Jordan, Casey Adams, Justin Chu Cary, George Watsky, Carlos López Estrada, John K. Moeslein, Steven Wiig</ACTORES>
+        <DIRECTORES>Carlos López Estrada</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>comedia/Crimen/Drama</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/6.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Nostalgia</TITULO>
+        <ACTORES>Hugo Armstrong, Shinelle Azoroh, Annalise Basso, Ellen Burstyn, Bruce Dern, Chloe Farnworth, Joanna Going, Beth Grant, Arye Gross, Jon Hamm, Catherine Keener</ACTORES>
+        <DIRECTORES>Mark Pellington</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/7.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Legítimo rey</TITULO>
+        <ACTORES>Chris Pine, Stephen Dillane, Rebecca Robin, Billy Howle, Paul Blair, Sam Spruell, Jonny Phillips, Ben Clifford, Jamie Maclachlan, Steven Cree, Tony Curran, James Cosmo</ACTORES>
+        <DIRECTORES>David Mackenzie</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Aventura/Drama</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/8.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Infiltrado del KKKlan</TITULO>
+        <ACTORES>Alec Baldwin, John David Washington, Adam Driver, Isiah Whitlock Jr., Robert John Burke, Brian Tarantina, Arthur J. Nascarella, Ken Garito, Michael Buscemi, Laura Harrier</ACTORES>
+        <DIRECTORES>Spike Lee</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Biográfico/Crimen</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/9.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Misión Imposible Repercusión</TITULO>
+        <ACTORES>Tom Cruise, Rebecca Ferguson, Henry Cavill, Simon Pegg, Ving Rhames, Vanessa Kirby, Michelle Monaghan, Alec Baldwin, Angela Bassett, Sian Brooke, Sean Harris, Wes Bentley, Frederick Schmidt, Liang Yang, Kristoffer Joner</ACTORES>
+        <DIRECTORES>Christopher McQuarrie</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Action/Aventura/Thriller</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/10.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Ningún rastro</TITULO>
+        <ACTORES>Thomasin McKenzie, Ben Foster, Jeffery Rifflard, Derek John Drescher, Michael Draper, Peter Simpson, Erik McGlothlin, Dana Millican, Jeff Kober, Spencer S. Hanley</ACTORES>
+        <DIRECTORES>Debra Granik</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA/CANADA</NACIONALIDAD>
+        <CARTEL>"img/11.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>El doctor de la felicidad</TITULO>
+        <ACTORES>Omar Sy, Alex Lutz, Ana Girardot, Sabine Azéma, Pascal Elbé, Audrey Dana, Michel Vuillermoz, Christian Hecq, Hélène Vincent, Andréa Ferréol, Rufus, Nicolas Marié</ACTORES>
+        <DIRECTORES>Lorraine Lévy</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/12.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Megalodón</TITULO>
+        <ACTORES>Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis, Winston Chao, Shuya Sophia Cai, Ruby Rose, Page Kennedy</ACTORES>
+        <DIRECTORES>Jon Turteltaub</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Horror</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/13.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Hasta que te encontré</TITULO>
+        <ACTORES>Alex Roe, Jessica Rothe, Abby Ryder Fortson, Travis Tritt, Peter Cambor, Gillian Vigman, Judith Hoag, Tyler Riggs, John Benjamin Hickey, Morgan Alexandria, Lauren Gros</ACTORES>
+        <DIRECTORES>Bethany Ashton Wolf</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama/Musica/Romance</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/14.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Los increibles 2</TITULO>
+        <ACTORES>Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner, Catherine Keener, Eli Fucile, Bob Odenkirk, Samuel L. Jackson, Sophia Bush</ACTORES>
+        <DIRECTORES>Disney Pixar</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Acción/Animación/Aventura</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/15.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>La maldición de Blackwood</TITULO>
+        <ACTORES>AnnaSophia Robb, Uma Thurman, Isabelle Fuhrman, Victoria Moroles, Noah Silver, Taylor Russell, Rosie Day, Rebecca Front, Jodhi May, Pip Torrens, Kirsty Mitchell</ACTORES>
+        <DIRECTORES>Rodrigo Cortés</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama/Fantasia/Horror</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/16.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Incoming</TITULO>
+        <ACTORES>Scott Adkins, Aaron McCusker, Michelle Lehane, Vahidin Prelic, Lukas Loughran, Alaa Safi, Milan Kovacevic, Arkie Reece, Vladimir Aleksic, Milan Jovanovic Strongman</ACTORES>
+        <DIRECTORES>Eric Zaragoza</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Ciencia Ficción/Thriller</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/17.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Jovenes Titanes en Acción</TITULO>
+        <ACTORES>Greg Cipes, Scott Menville, Khary Payton, Tara Strong, Hynden Walch, Will Arnett, Kristen Bell, Eric Bauza, Michael Bolton, Nicolas Cage, Joey Cappabianca, Greg Davies</ACTORES>
+        <DIRECTORES>Aaron Horvath, Peter Rida Michail</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Acción/Animación/Aventura</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/18.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Illand: La brigada del lobo</TITULO>
+        <ACTORES>Woo-sung Jung, Hyo-Joo Han, Dong-won Gang, Ye-ri Han, Minho Choi, Jun-ho Heo, Moo Yul Kim, Eun-soo Shin, Hong-In</ACTORES>
+        <DIRECTORES>Jee-woon Kim</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/19.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Constantine: Ciudad de demonios</TITULO>
+        <ACTORES>Laura Bailey, Emily O'Brien, Damian O'Hare, Matt Ryan</ACTORES>
+        <DIRECTORES>Doug Murphy</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Animación</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/20.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Mnentes Poderosas</TITULO>
+        <ACTORES>Amandla Stenberg, Mandy Moore, Bradley Whitford, Harris Dickinson, Patrick Gibson, Skylan Brooks, Miya Cech, Gwendoline Christie, Wade Williams, Mark O'Brien</ACTORES>
+        <DIRECTORES>Jennifer Yuh Nelson</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Thriller</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/21.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>ChristopherRobin: Un reencuentro inolvidable</TITULO>
+        <ACTORES>Ewan McGregor, Hayley Atwell, Bronte Carmichael, Mark Gatiss, Oliver Ford Davies, Ronke Adekoluejo, Adrian Scarborough, Roger Ashton-Griffiths, Ken Nwosu</ACTORES>
+        <DIRECTORES>Marc Forster</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Animación/Aventura/Comedia</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/22.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>La noche nos persigue</TITULO>
+        <ACTORES>Iko Uwais, Joe Taslim, Julie Estelle, Shareefa Daanish, Sunny Pang, Zack Lee, Hannah Al Rashid, Dian Sastrowardoyo, Salvita Decorte, Epy Kusnandar, Dimas Anggara</ACTORES>
+        <DIRECTORES>Timo Tjahjanto</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Thriller</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/23.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>22 de julio</TITULO>
+        <ACTORES>Anders Danielsen Lie, Jonas Strand Gravli, Jon Øigarden, Maria Bock, Thorbjørn Harr, Seda Witt, Isak Bakli Aglen, Ola G. Furuseth, Marit Andreassen</ACTORES>
+        <DIRECTORES>Paul Greengrass</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Crimen/Drama</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/24.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Errementari: El herrero y el diablo</TITULO>
+        <ACTORES>Eneko Sagardoy, Itziar Ituño, Josean Bengoetxea, Gorka Aguinagalde, Urko Olazabal, Kandido Uranga, Almudena Cid, Ramón Agirre, Gotzon Sánchez, Zigor Bilbao, Uma Bracaglia, Maite Bastos, Ander Pardo, José Ramón Argoitia, Iñigo de la Iglesia, Naia Garcia</ACTORES>
+        <DIRECTORES>Paul Urkijo Alijo</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Fantasia/Horror</GENERO>
+        <AÑO>2018</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/25.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Hermosas criaturas</TITULO>
+        <ACTORES>Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale, Zoey Deutch, Tiffany Boone, Rachel Brosnahan, Kyle Gallner, Pruitt Taylor Vince, Robin Skye</ACTORES>
+        <DIRECTORES>Richard LaGravenese</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama/Fantasia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/26.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Turbo</TITULO>
+        <ACTORES>Ryan Reynolds, Paul Giamatti, Michael Peña, Samuel L. Jackson, Luis Guzmán, Bill Hader, Snoop Dogg, Maya Rudolph, Ben Schwartz, Richard Jenkins, Ken Jeong, Michelle Rodriguez, Mario Andretti, Mike Bell, Aidan Andrews</ACTORES>
+        <DIRECTORES>David Soren</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Animación/Aventura/Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/27.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Monsters University</TITULO>
+        <ACTORES>Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren, Peter Sohn, Joel Murray, Sean Hayes, Dave Foley, Charlie Day, Alfred Molina, Tyler Labine, Nathan Fillion, Aubrey Plaza, Bobby Moynihan, Noah Johnston</ACTORES>
+        <DIRECTORES>Dan Scanlon</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Animación/Aventura/Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/28.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Chronicle </TITULO>
+        <ACTORES>Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Ashley Hinshaw, Bo Petersen, Anna Wood, Rudi Malcolm, Luke Tyler, Crystal-Donna Roberts, Adrian Collins, Grant Powell, Armand Aucamp, Nicole Bailey, Lynita Crofford</ACTORES>
+        <DIRECTORES>Josh Trank</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Ciencia ficción/Drama</GENERO>
+        <AÑO>2012</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/29.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Magic Mike</TITULO>
+        <ACTORES>Matthew McConaughey, Channing Tatum, Olivia Munn, Alex Pettyfer, James Martin Kelly, Cody Horn, Reid Carolin, Avery Camp, George A. Sack, Micaela Johnson, Denise Vasi, Camryn Grimes, Kate Easton, Asher Wallis, Joe Manganiello</ACTORES>
+        <DIRECTORES>Steven Soderbergh</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia/Drama</GENERO>
+        <AÑO>2012</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/30.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Los becarios</TITULO>
+        <ACTORES>Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi, Max Minghella, Josh Brener, Dylan O’Brien, Tiya Sircar, Tobit Raphael, Josh Gad, Jessica Szohr, Rob Riggle, Eric André, Harvey Guillen, Gary Anthony Williams</ACTORES>
+        <DIRECTORES>Shawn Levy</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/31.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>El hombre de acero</TITULO>
+        <ACTORES>Henry Cavill, Amy Adams, Michael Shannon, Diane Lane, Russell Crowe, Antje Traue, Harry Lennix, Richard Schiff, Christopher Meloni, Kevin Costner, Ayelet Zurer, Laurence Fishburne, Dylan Sprayberry, Cooper Timberline, Richard Cetrone</ACTORES>
+        <DIRECTORES>Zack Snyder</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Aventura/Ficción</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/32.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Los Croods: una aventura prehistórica</TITULO>
+        <ACTORES>Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Cloris Leachman, Clark Duke, Chris Sanders, Randy Thom</ACTORES>
+        <DIRECTORES>Chris Sanders</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Animación/ventura/Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/33.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Armados y peligrosos</TITULO>
+        <ACTORES>Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, Fred Ward, James Marsden, Edward James Olmos, Robert John Burke, Greg Sproles, Patrick Fischler, Edgar Arreola, Derek Solorsano, Kyle Russell Clements, Christopher Matthew Cook, Tim Bell</ACTORES>
+        <DIRECTORES>Baltasar Kormákur</DIRECTORES>
+        <CLASIFICACION>Acción/Comedia/Crimen</CLASIFICACION>
+        <GENERO>Acción</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/34.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Crepúsculo: Amanecer – Parte 2</TITULO>
+        <ACTORES>Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli, Elizabeth Reaser, Ashley Greene, Jackson Rathbone, Kellan Lutz, Nikki Reed, Billy Burke, Chaske Spencer, Mackenzie Foy, Maggie Grace, Jamie Campbell Bower, Christopher Heyerdahl</ACTORES>
+        <DIRECTORES>Bill Condon</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Aventura/Drama/Fantasia</GENERO>
+        <AÑO>2012</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/35.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Crepúsculo: Amanecer – Parte 1</TITULO>
+        <ACTORES>Taylor Lautner, Gil Birmingham, Billy Burke, Sarah Clarke, Ty Olsson, Kristen Stewart, Ashley Greene, Jackson Rathbone, Peter Facinelli, Elizabeth Reaser, Kellan Lutz, Nikki Reed, Robert Pattinson, Christian Sloan, James Pizzinato</ACTORES>
+        <DIRECTORES>Bill Condon</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Aventura/Drama/Fantasia</GENERO>
+        <AÑO>2011</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/36.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Este es el fin</TITULO>
+        <ACTORES>James Franco, Jonah Hill, Seth Rogen, Jay Baruchel, Danny McBride, Craig Robinson, Michael Cera, Emma Watson, Mindy Kaling, David Krumholtz, Christopher Mintz-Plasse, Rihanna, Martin Starr, Paul Rudd, Channing Tatum</ACTORES>
+        <DIRECTORES>Evan Goldberg, Seth Rogen</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia/Fantasia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/37.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>La maldición de Chucky</TITULO>
+        <ACTORES>Chantal Quesnelle, Fiona Dourif, Jordan Gavaris, Danielle Bisutti, A Martinez, Maitland McConnell, Brennan Elliott, Summer H. Howell, Adam Hurtig, Darren Wall, Will Woytowich, Anne Leveille, Kally Berard, Kyle Nobess, Brad Dourif</ACTORES>
+        <DIRECTORES>Don Mancini</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Horro</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/38.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Frozen: El reino del hielo</TITULO>
+        <ACTORES>Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana, Alan Tudyk, Ciarán Hinds, Chris Williams, Stephen J. Anderson, Maia Wilson, Edie McClurg, Robert Pine, Maurice LaMarche, Livvy Stubenrauch, Eva Bella</ACTORES>
+        <DIRECTORES>Jennifer Lee</DIRECTORES>
+        <CLASIFICACION>AA</CLASIFICACION>
+        <GENERO>Animacion/Aventura/Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/39.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Cuando todo está perdido</TITULO>
+        <ACTORES>Robert Redford</ACTORES>
+        <DIRECTORES>J.C. Chandor</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Aventura/Drama</GENERO>
+        <AÑO>2014</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/40.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Mandela: Un largo camino a la libertad</TITULO>
+        <ACTORES>Idris Elba, Naomie Harris, Tony Kgoroge, Riaad Moosa, Zolani Mkiva, Simo Mogwaza, Fana Mokoena, Thapelo Mokoena, Jamie Bartlett, Deon Lotz, Terry Pheto, Zikhona Sodlaka, S’Thandiwe Kgoroge, Tshallo Sputla Chokwe, Sello Maake</ACTORES>
+        <DIRECTORES>Justin Chadwick</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama</GENERO>
+        <AÑO>2014</AÑO>
+        <NACIONALIDAD>UK</NACIONALIDAD>
+        <CARTEL>"img/41.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Enredados</TITULO>
+        <ACTORES>Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman, M.C. Gainey, Jeffrey Tambor, Brad Garrett, Paul F. Tompkins, Richard Kiel, Delaney Rose Stein, Nathan Greno, Byron Howard, Tim Mertens, Michael Bell, Bob Bergen</ACTORES>
+        <DIRECTORES>Byron Howard</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción</GENERO>
+        <AÑO>2011</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/42.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Nebraska</TITULO>
+        <ACTORES>Bruce Dern, Will Forte, June Squibb, Bob Odenkirk, Stacy Keach, Mary Louise Wilson, Rance Howard, Tim Driscoll, Devin Ratray, Angela McEwan, Glendora Stitt, Elizabeth Moore, Kevin Kunkel, Dennis McCoig, Ronald Vosta</ACTORES>
+        <DIRECTORES>Alexander Payne</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Aventura/Drama</GENERO>
+        <AÑO>2014</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/43.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Notas Perfectas</TITULO>
+        <ACTORES>Anna Kendrick, Skylar Astin, Ben Platt, Brittany Snow, Anna Camp, Rebel Wilson, Alexis Knapp, Ester Dean, Hana Mae Lee, Kelley Jakle, Wanetah Walmsley, Shelley Regner, Caroline Fourmy, Nicole Lovince, Adam DeVine</ACTORES>
+        <DIRECTORES>Jason Moore</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Comedia/Romance</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD></NACIONALIDAD>
+        <CARTEL>"img/44.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Blue Jasmine </TITULO>
+        <ACTORES>Cate Blanchett, Joy Carlin, Richard Conti, Glen Caspillo, Alec Baldwin, Charlie Tahan, Annie McNamara, Sally Hawkins, Daniel Jenks, Max Rutherford, Andrew Dice Clay, Tammy Blanchard, Kathy Tong, Ted Neustadt, Andrew Long</ACTORES>
+        <DIRECTORES>Woody Allen</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Drama</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/45.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Bienvenidos al fin del mundo</TITULO>
+        <ACTORES>Thomas Law, Zachary Bailess, Jasper Levine, James Tarpey, Luke Bromley, Sophie Evans, Samantha White, Rose Reynolds, Richard Hadfield, Flora Slorach, Francesca Reidie, Charlotte Reidie, Pierce Brosnan, David Bradley, Michael Smiley</ACTORES>
+        <DIRECTORES>Edgar Wright</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Comedia</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>UK</NACIONALIDAD>
+        <CARTEL>"img/46.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>El abogado del crimen</TITULO>
+        <ACTORES>Michael Fassbender, Penélope Cruz, Cameron Diaz, Javier Bardem, Cesar Aguirre, Daniel Holguín, Christopher Obi, Bruno Ganz, Brad Pitt, Paris Jefferson, Dar Dash, Richard Cabral, Rosie Perez, Alex Hafner, Andrea Deck</ACTORES>
+        <DIRECTORES>Ridley Scott</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Crimen/Drama/Thriller</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/47.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Ice Age 4: La formación de los continentes</TITULO>
+        <ACTORES>Aziz Ansari, Joy Behar, Christopher Campbell, Alain Chabat, Ester Dean, Peter Dinklage, Karen Disher, Aubrey Graham, Jason Fricchione, Nick Frost, Josh Gad, Ben Gleib, George Jacobs, Queen Latifah, Denis Leary</ACTORES>
+        <DIRECTORES>Mike Thurmeier</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Animacion/Aventura/Comedia</GENERO>
+        <AÑO>2012</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/48.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>La huésped</TITULO>
+        <ACTORES>Rachel Roberts, Shyaam Karra, Brent Wendell Williams, Jhil McEntyre, Jalen Coleman, Saoirse Ronan, Diane Kruger, Stephen Rider, Jaylen Moore, Stephen Conroy, Michael L. Parker, Phil Austin, Marcus Lyle Brown, Chandler Canterbury, Max Irons</ACTORES>
+        <DIRECTORES>Andrew Niccol</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Aventura/Ciencia Ficción/Romance</GENERO>
+        <AÑO>2013</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/49.png"</CARTEL>
+    </PELICULA>
+    <PELICULA>
+        <TITULO>Machete Kills</TITULO>
+        <ACTORES>Danny Trejo, Mel Gibson, Demian Bichir, Amber Heard, Michelle Rodriguez, Sofía Vergara, Charlie Sheen, Lady Gaga, Antonio Banderas, Walton Goggins, Cuba Gooding Jr., Vanessa Hudgens, Alexa PenaVega, Marko Zaror, Tom Savini</ACTORES>
+        <DIRECTORES>Robert Rodriguez</DIRECTORES>
+        <CLASIFICACION>NR</CLASIFICACION>
+        <GENERO>Acción/Comedia/Crimen</GENERO>
+        <AÑO>2014</AÑO>
+        <NACIONALIDAD>USA</NACIONALIDAD>
+        <CARTEL>"img/50.png"</CARTEL>
+    </PELICULA>
+
+</CATALOGO>
